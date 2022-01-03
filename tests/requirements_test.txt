@@ -1,4 +1,4 @@
-tftest==1.6.0
+tftest==1.6.2
 moto==2.1.0
 localstack-client==1.22
 -r ../requirements_common.txt
